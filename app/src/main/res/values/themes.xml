@@ -5,5 +5,8 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.MercadoLivreDriver" parent="Base.Theme.MercadoLivreDriver" />
+    <style name="Theme.MercadoLivreDriver" parent="Base.Theme.MercadoLivreDriver">
+        <item name="android:statusBarColor">@color/yellow_bar</item>
+    </style>
+
 </resources>

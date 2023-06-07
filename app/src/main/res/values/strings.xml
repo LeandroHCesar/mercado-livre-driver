@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Mercado Livre Driver</string>
+    <string name="txt_paradas">102 de 103 paradas visitadas</string>
+    <string name="txt_units">1 unidade no veículo</string>
+    <string name="txt_proxima_parada">Próxima parada</string>
 </resources>
